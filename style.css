@@ -40,19 +40,14 @@
 
 
 
-.div-2{
-     margin-left: 39%;
-     margin-top: 35px;
-}
+
+
 .top{
-     margin-left: 70px;
-     margin-top: 40px;
+     margin-left: 40%;
+     margin-top: 1px;
 }
 
-.p2{
-     margin-left: -25%;
-     margin-top: -15px;
-}
+
 .div3{
      background-color: rgb(231, 218, 218);
      width: 20px;
@@ -159,4 +154,38 @@
 }
 .div10 p{
      font-size: small;
+}
+.div11{
+     display: flex;
+     margin-bottom: 150%;
+     padding: 10%;
+   
+   
+     
+}
+.div12{
+       width: 50%;
+       padding: 2%;
+      
+       padding: 5%;
+      
+       margin-right: 2%;
+       background-color: antiquewhite;
+}
+.div13{
+     width: 50%;
+     padding: 2%;
+    
+     padding: 5%;
+     
+     background-color: rgba(6, 240, 158, 0.237);
+}
+.div14{
+     width: 50%;
+     padding: 2%;
+    
+     padding: 5%;
+    
+     margin-left: 2%;
+     background-color: rgba(74, 170, 54, 0.421);
 }
