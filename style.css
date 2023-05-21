@@ -59,6 +59,59 @@ span{
     
      display: flex;
      align-items: center;
-  justify-content: space-around;
-  flex-direction: row;
- 
+  justify-content: space-around; 
+  padding: 60px;
+}
+.anchor2{
+     text-decoration: none;
+     
+}
+.div4{
+     text-align: center;
+     padding: 5%;
+}
+.div4 p{
+     font-size: x-small;
+}
+.div4 h1{
+     font-size: 30px;
+}
+.div5{
+     display: flex;
+     align-items: center;
+     justify-content: space-around;
+     color: rgb(0, 0, 0);
+   
+}
+.f-f-f{
+    
+     width: 100px;
+    background-image: url(images/food\ for\ donation);
+    background-repeat:repeat;
+    background-attachment: fixed;
+    background-size: 245px;
+     padding: 60px;
+     margin: 20px;
+}
+.s-f-f{
+    
+     width: 100px;
+     background-image: url(images/shelter\ for\ family.jpg);
+     background-size: 210px;
+    background-repeat:repeat;
+    background-attachment: fixed;
+     padding: 60px;
+     margin: 20px;
+}
+.e-f-c{
+   
+     width: 100px;
+     background-image: url(images/images.jpg);
+     background-size: 263px;
+    background-repeat:repeat;
+    background-attachment: fixed;
+     padding: 60px;
+     margin: 20px;
+}
+
+   
