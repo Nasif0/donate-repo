@@ -200,6 +200,16 @@ span{
      border-radius: 5px;
      width: 100px;
    }
+   footer{
+     text-align: center;
+     color: aliceblue;
+     margin-top: 20%;
+     background-color: black;
+     padding: 30px;
+   }
+   .fr{
+     color: orangered;
+   }
 
 
 
