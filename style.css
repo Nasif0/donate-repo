@@ -3,6 +3,7 @@
      margin: 0;
      padding: 0;
      text-decoration: none;
+    
 }
     
 
@@ -51,17 +52,20 @@
   
      
 span{
-     background-color: rgba(207, 153, 46, 0.36);
+     
+     background-color: rgba(105, 105, 103, 0.079);
      font-size: 20px;
-     border-radius: 10px;
-     padding: 6px 6px;
+     border-radius: 1px ;
+     padding: 10px 10px;
 }
 .div3{
     
-     display: flex;
-     align-items: center;
-  justify-content: space-around; 
-  padding: 60px;
+    margin-top: 40px;
+  
+}
+.h2-anchor2{
+
+     margin-top: 30px;
 }
 
      
@@ -77,40 +81,40 @@ span{
      font-size: 30px;
 }
 .div5{
-     display: flex;
-     align-items: center;
+    display: flex;
+   
      justify-content: space-around;
      color: rgb(0, 0, 0);
    
 }
+
+
+
+
 .f-f-f{
     
-     width: 100px;
-    background-image: url(images/food\ for\ donation);
-    background-repeat:repeat;
-    background-attachment: fixed;
-    background-size: 245px;
-     padding: 60px;
+     width: 250px;
+  
+     padding: 125px 125px;
      margin: 20px;
 }
 .s-f-f{
     
-     width: 100px;
-     background-image: url(images/shelter\ for\ family.jpg);
-     background-size: 210px;
-    background-repeat:repeat;
-    background-attachment: fixed;
-     padding: 60px;
+    
+    
+     width: 250px;
+  
+     padding: 125px 125px;
      margin: 20px;
+
 }
 .e-f-c{
    
-     width: 100px;
-     background-image: url(images/images.jpg);
-     background-size: 263px;
-    background-repeat:repeat;
-    background-attachment: fixed;
-     padding: 60px;
+    
+   
+     width: 250px;
+  
+     padding: 125px 125px;
      margin: 20px;
 }
 .div6{
@@ -177,7 +181,9 @@ span{
      padding: 5px 10px;
      border-radius: 5px;
      width: 100px;
+    
    }
+  
    .anchor3{
 
  text-decoration: none;
